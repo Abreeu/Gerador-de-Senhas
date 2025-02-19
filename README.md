@@ -9,7 +9,7 @@ Um gerador de Passwords, contendo (Letras Maiusculas, Minusculas, Números, Cara
 
 Tem como objetivo, auxiliar na criação de senhas aleatórias quando o usuário está indeciso sobre qual senha utilizar, podendo ser implementado em telas de cadastros ou em outras utilidades.
 
-## Demostração do Layout <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" />
+## Demostração do Layout <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [Link-Gerador-de-Senhas](https://passwordgen-abreeu.vercel.app/)
 
 ![Tela-Funcional](./src/assets/Gerador-com-senha.png)
 
